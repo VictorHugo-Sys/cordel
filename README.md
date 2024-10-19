@@ -1,6 +1,6 @@
 Esse foi um cordel que foi dado como exercício em um curso que estava fazendo. <br>
-Achei legal e decidi publicar aqui.
+Achei legal e decidi publicar aqui. <br>
 <br>
-<a href="">exercício cordel</a>
+<a href="https://victorhugo-sys.github.io/cordel/">exercício cordel</a>
 
  
